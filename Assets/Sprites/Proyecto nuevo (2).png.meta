@@ -1,0 +1,2302 @@
+fileFormatVersion: 2
+guid: 001bbcf31da196b47a0d59ba8c99253f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -699053813111172983
+    second: Proyecto nuevo (2)_0
+  - first:
+      213: 796610666237046007
+    second: Proyecto nuevo (2)_1
+  - first:
+      213: 1984005405729339704
+    second: Proyecto nuevo (2)_2
+  - first:
+      213: 2212791359437133037
+    second: Proyecto nuevo (2)_3
+  - first:
+      213: -3899486561205773754
+    second: Proyecto nuevo (2)_4
+  - first:
+      213: -390836055629107556
+    second: Proyecto nuevo (2)_5
+  - first:
+      213: -7067017178106918519
+    second: Proyecto nuevo (2)_6
+  - first:
+      213: -7199982573121926465
+    second: Proyecto nuevo (2)_7
+  - first:
+      213: -9051700816570954677
+    second: Proyecto nuevo (2)_8
+  - first:
+      213: -5409179246272360622
+    second: Proyecto nuevo (2)_9
+  - first:
+      213: -5623283700684360455
+    second: Proyecto nuevo (2)_10
+  - first:
+      213: -6425958410682714885
+    second: Proyecto nuevo (2)_11
+  - first:
+      213: -3844693663107661011
+    second: Proyecto nuevo (2)_12
+  - first:
+      213: -593463013736004971
+    second: Proyecto nuevo (2)_13
+  - first:
+      213: -2037907094003479534
+    second: Proyecto nuevo (2)_14
+  - first:
+      213: 1235449498510936244
+    second: Proyecto nuevo (2)_15
+  - first:
+      213: 140162059329118745
+    second: Proyecto nuevo (2)_16
+  - first:
+      213: 2781374340642644121
+    second: Proyecto nuevo (2)_17
+  - first:
+      213: 2548751532953440792
+    second: Proyecto nuevo (2)_18
+  - first:
+      213: -7584199955349841884
+    second: Proyecto nuevo (2)_19
+  - first:
+      213: -1966188871045230931
+    second: Proyecto nuevo (2)_20
+  - first:
+      213: -4397802050459866711
+    second: Proyecto nuevo (2)_21
+  - first:
+      213: 243360611447397628
+    second: Proyecto nuevo (2)_22
+  - first:
+      213: -8379598002918643346
+    second: Proyecto nuevo (2)_23
+  - first:
+      213: 3620383616306961324
+    second: Proyecto nuevo (2)_24
+  - first:
+      213: -7226928633606023733
+    second: Proyecto nuevo (2)_25
+  - first:
+      213: -3179129432109162499
+    second: Proyecto nuevo (2)_26
+  - first:
+      213: 4636535196650512334
+    second: Proyecto nuevo (2)_27
+  - first:
+      213: 1178112933434792187
+    second: Proyecto nuevo (2)_28
+  - first:
+      213: 155170967366061992
+    second: Proyecto nuevo (2)_29
+  - first:
+      213: 183551527877708014
+    second: Proyecto nuevo (2)_30
+  - first:
+      213: 2989701815944940630
+    second: Proyecto nuevo (2)_31
+  - first:
+      213: 2592222158422090839
+    second: Proyecto nuevo (2)_32
+  - first:
+      213: -1556771101061842461
+    second: Proyecto nuevo (2)_33
+  - first:
+      213: -2998626976269044266
+    second: Proyecto nuevo (2)_34
+  - first:
+      213: 7365036841737156285
+    second: Proyecto nuevo (2)_35
+  - first:
+      213: -2588437786132322336
+    second: Proyecto nuevo (2)_36
+  - first:
+      213: -4884067530288492875
+    second: Proyecto nuevo (2)_37
+  - first:
+      213: 4473643277271274766
+    second: Proyecto nuevo (2)_38
+  - first:
+      213: -5423730343655706127
+    second: Proyecto nuevo (2)_39
+  - first:
+      213: -8809728320327487561
+    second: Proyecto nuevo (2)_40
+  - first:
+      213: 805514524859003792
+    second: Proyecto nuevo (2)_41
+  - first:
+      213: 334719829650535692
+    second: Proyecto nuevo (2)_42
+  - first:
+      213: -6255266912930740952
+    second: Proyecto nuevo (2)_43
+  - first:
+      213: -2618461120312493744
+    second: Proyecto nuevo (2)_44
+  - first:
+      213: 5127809493333336703
+    second: Proyecto nuevo (2)_45
+  - first:
+      213: -3800639603102140740
+    second: Proyecto nuevo (2)_46
+  - first:
+      213: -3063307984985001991
+    second: Proyecto nuevo (2)_47
+  - first:
+      213: -5533962190078753776
+    second: Proyecto nuevo (2)_48
+  - first:
+      213: -8849306171312211176
+    second: Proyecto nuevo (2)_49
+  - first:
+      213: 3913891783161586369
+    second: Proyecto nuevo (2)_50
+  - first:
+      213: -2721549290837266138
+    second: Proyecto nuevo (2)_51
+  - first:
+      213: -7561339495225571275
+    second: Proyecto nuevo (2)_52
+  - first:
+      213: -9069720747752648835
+    second: Proyecto nuevo (2)_53
+  - first:
+      213: -6095578181836209854
+    second: Proyecto nuevo (2)_54
+  - first:
+      213: -5418640563483475450
+    second: Proyecto nuevo (2)_55
+  - first:
+      213: 7547738609598757524
+    second: Proyecto nuevo (2)_56
+  - first:
+      213: -667469655380922620
+    second: Proyecto nuevo (2)_57
+  - first:
+      213: 7777531981036067356
+    second: Proyecto nuevo (2)_58
+  - first:
+      213: -9027644898629073176
+    second: Proyecto nuevo (2)_59
+  - first:
+      213: -4733576023144785492
+    second: Proyecto nuevo (2)_60
+  - first:
+      213: -1215647850886507343
+    second: Proyecto nuevo (2)_61
+  - first:
+      213: 4180398377905132825
+    second: Proyecto nuevo (2)_62
+  - first:
+      213: -4662532290552991170
+    second: Proyecto nuevo (2)_63
+  - first:
+      213: 609096620822194483
+    second: Proyecto nuevo (2)_64
+  - first:
+      213: 121344717859974223
+    second: Proyecto nuevo (2)_65
+  - first:
+      213: -6670055023242816975
+    second: Proyecto nuevo (2)_66
+  - first:
+      213: -8320289203037563307
+    second: Proyecto nuevo (2)_67
+  - first:
+      213: -656516381363063104
+    second: Proyecto nuevo (2)_68
+  - first:
+      213: -6014628535835457708
+    second: Proyecto nuevo (2)_69
+  - first:
+      213: 1057284128558391008
+    second: Proyecto nuevo (2)_70
+  - first:
+      213: 5605459424007880304
+    second: Proyecto nuevo (2)_71
+  - first:
+      213: 2005391903672993245
+    second: Proyecto nuevo (2)_72
+  - first:
+      213: -1089331913651110799
+    second: Proyecto nuevo (2)_73
+  - first:
+      213: -6555427138673270926
+    second: Proyecto nuevo (2)_74
+  - first:
+      213: 7376516360247299538
+    second: Proyecto nuevo (2)_75
+  - first:
+      213: -8421832633052582311
+    second: Proyecto nuevo (2)_76
+  - first:
+      213: 5366270392588237640
+    second: Proyecto nuevo (2)_77
+  - first:
+      213: 7348563009135465767
+    second: Proyecto nuevo (2)_78
+  - first:
+      213: 2426790077253850598
+    second: Proyecto nuevo (2)_79
+  - first:
+      213: 9099333647368699884
+    second: Proyecto nuevo (2)_80
+  - first:
+      213: 733905344331556899
+    second: Proyecto nuevo (2)_81
+  - first:
+      213: 7812201056279719312
+    second: Proyecto nuevo (2)_82
+  - first:
+      213: 7705660448255679765
+    second: Proyecto nuevo (2)_83
+  - first:
+      213: -439522799121702616
+    second: Proyecto nuevo (2)_84
+  - first:
+      213: 6769579870371890633
+    second: Proyecto nuevo (2)_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1535
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b3f0a76a988b10800000000000000
+      internalID: 1984005405729339704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1518
+        width: 75
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a9be802ad32e9c0800000000000000
+      internalID: -3899486561205773754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1519
+        width: 76
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eefca9da8739af0800000000000000
+      internalID: -390836055629107556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_6
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1518
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9898a55b159eced90800000000000000
+      internalID: -7067017178106918519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1518
+        width: 76
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba80143ff5841c90800000000000000
+      internalID: -7199982573121926465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1518
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ccc27b016e16280800000000000000
+      internalID: -9051700816570954677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1363
+        width: 76
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4583722cbee4b0800000000000000
+      internalID: -5409179246272360622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1363
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4f675844516f1b0800000000000000
+      internalID: -5623283700684360455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1363
+        width: 76
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4b2d52fd862d6a0800000000000000
+      internalID: -6425958410682714885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1363
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23c544cb77e4aac0800000000000000
+      internalID: -3844693663107661011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1363
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592cee6888893c7f0800000000000000
+      internalID: -593463013736004971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1363
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c8ca89b46e7b3e0800000000000000
+      internalID: -2037907094003479534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1363
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8cda0f5c2352110800000000000000
+      internalID: 1235449498510936244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_16
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1363
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ac4d76a4f1f100800000000000000
+      internalID: 140162059329118745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_17
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1363
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9902469f93d699620800000000000000
+      internalID: 2781374340642644121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_18
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1363
+        width: 77
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8121c6ee30cfe5320800000000000000
+      internalID: 2548751532953440792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1206
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428d6dbc2528fb690800000000000000
+      internalID: -7584199955349841884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1207
+        width: 95
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daec50c93a1b6b4e0800000000000000
+      internalID: -1966188871045230931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1207
+        width: 99
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9eadde55ed7f2c0800000000000000
+      internalID: -4397802050459866711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1207
+        width: 97
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcd4adcf27906300800000000000000
+      internalID: 243360611447397628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_23
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1207
+        width: 97
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69267b6300b5bb80800000000000000
+      internalID: -8379598002918643346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_24
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1208
+        width: 96
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabde98a7bf2e3230800000000000000
+      internalID: 3620383616306961324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_25
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1207
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc550d892bac4bb90800000000000000
+      internalID: -7226928633606023733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_26
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1208
+        width: 96
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd42010a671e3d0800000000000000
+      internalID: -3179129432109162499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1207
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf13f82238485040800000000000000
+      internalID: 4636535196650512334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_28
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1207
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf89ca6987f795010800000000000000
+      internalID: 1178112933434792187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1051
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afce453c27472200800000000000000
+      internalID: 155170967366061992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1051
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee88121642b1c8200800000000000000
+      internalID: 183551527877708014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1051
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c0db326fd8d7920800000000000000
+      internalID: 2989701815944940630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1051
+        width: 95
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75425a3a15c69f320800000000000000
+      internalID: 2592222158422090839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1051
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e97d948eec356ae0800000000000000
+      internalID: -1556771101061842461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_34
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1051
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5749907acb266d0800000000000000
+      internalID: -2998626976269044266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_35
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1051
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db678656cfdd53660800000000000000
+      internalID: 7365036841737156285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_36
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1051
+        width: 94
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e762623c85041cd0800000000000000
+      internalID: -2588437786132322336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_37
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1051
+        width: 96
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be8226457e483cb0800000000000000
+      internalID: -4884067530288492875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_38
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1051
+        width: 79
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059199bbd2951e30800000000000000
+      internalID: 4473643277271274766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 887
+        width: 83
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1f4e41df90bb4b0800000000000000
+      internalID: -5423730343655706127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_40
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 887
+        width: 98
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf6e23c4ce8db580800000000000000
+      internalID: -8809728320327487561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 887
+        width: 98
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09373ab4133cd2b00800000000000000
+      internalID: 805514524859003792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 888
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05799169e925a400800000000000000
+      internalID: 334719829650535692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 887
+        width: 99
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825428f62e3d039a0800000000000000
+      internalID: -6255266912930740952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_44
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 888
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0593a99fb7b59abd0800000000000000
+      internalID: -2618461120312493744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_45
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 888
+        width: 101
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72620ed093a92740800000000000000
+      internalID: 5127809493333336703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_46
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 888
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6b0d9ea6a614bc0800000000000000
+      internalID: -3800639603102140740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_47
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 887
+        width: 102
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffe9552e91fc75d0800000000000000
+      internalID: -3063307984985001991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_48
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 887
+        width: 100
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c9e355ba6333b0800000000000000
+      internalID: -5533962190078753776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 720
+        width: 101
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b734e3ce2f03580800000000000000
+      internalID: -8849306171312211176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 720
+        width: 101
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2aaa017dfe05630800000000000000
+      internalID: 3913891783161586369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 720
+        width: 102
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621bde0e65d1b3ad0800000000000000
+      internalID: -2721549290837266138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_52
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 720
+        width: 101
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c2f07ac9b01790800000000000000
+      internalID: -7561339495225571275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_53
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 720
+        width: 101
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f863a8801e12280800000000000000
+      internalID: -9069720747752648835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_54
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 720
+        width: 97
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241080b70f7286ba0800000000000000
+      internalID: -6095578181836209854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_55
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 720
+        width: 100
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6028b00ed1f1dc4b0800000000000000
+      internalID: -5418640563483475450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_56
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 720
+        width: 102
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a72aa9644feb860800000000000000
+      internalID: 7547738609598757524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_57
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 720
+        width: 102
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40feaa482ebacb6f0800000000000000
+      internalID: -667469655380922620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_58
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 720
+        width: 103
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a15ee21285feb60800000000000000
+      internalID: 7777531981036067356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 556
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6c8d29bcc57b280800000000000000
+      internalID: -9027644898629073176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_60
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 556
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9162fbfa5fe4eb0800000000000000
+      internalID: -4733576023144785492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 556
+        width: 105
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b451fb68b6212fe0800000000000000
+      internalID: -1215647850886507343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 556
+        width: 103
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91597ae0d22c30a30800000000000000
+      internalID: 4180398377905132825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_63
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 556
+        width: 103
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32fccbb59b5b4fb0800000000000000
+      internalID: -4662532290552991170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_64
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 556
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3396ff54622f37800800000000000000
+      internalID: 609096620822194483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_65
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 556
+        width: 103
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ce963c06a1fa100800000000000000
+      internalID: 121344717859974223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_66
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 556
+        width: 104
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1325d4bbb443f63a0800000000000000
+      internalID: -6670055023242816975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_67
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 556
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5569d687d05688c80800000000000000
+      internalID: -8320289203037563307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_68
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 556
+        width: 80
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c631ab54d593e6f0800000000000000
+      internalID: -656516381363063104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 395
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578999a63fb78ca0800000000000000
+      internalID: -6014628535835457708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_70
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 395
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee916d205a3cae00800000000000000
+      internalID: 1057284128558391008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 396
+        width: 80
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07efadaa5a79acd40800000000000000
+      internalID: 5605459424007880304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 396
+        width: 80
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd58fd5bf4594db10800000000000000
+      internalID: 2005391903672993245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_73
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 395
+        width: 79
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c3454656ae1e0f0800000000000000
+      internalID: -1089331913651110799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_74
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 395
+        width: 81
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f9c60efb17605a0800000000000000
+      internalID: -6555427138673270926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 396
+        width: 80
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc5641c86ae5660800000000000000
+      internalID: 7376516360247299538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_76
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 395
+        width: 81
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eab1d47d3af1b80800000000000000
+      internalID: -8421832633052582311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_77
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 395
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bfae68d72d87a40800000000000000
+      internalID: 5366270392588237640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_78
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 395
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72558195f175bf560800000000000000
+      internalID: 7348563009135465767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_79
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 238
+        width: 80
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e59823b7b0bda120800000000000000
+      internalID: 2426790077253850598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_80
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 238
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefbb20fdb3574e70800000000000000
+      internalID: 9099333647368699884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 80
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a4a3b50b5f2a00800000000000000
+      internalID: 733905344331556899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_82
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 238
+        width: 80
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09deb7948738a6c60800000000000000
+      internalID: 7812201056279719312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_83
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 238
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d9e02f95100fa60800000000000000
+      internalID: 7705660448255679765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_84
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 238
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8216aa7c75086e9f0800000000000000
+      internalID: -439522799121702616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto nuevo (2)_85
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 238
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5c62c760162fd50800000000000000
+      internalID: 6769579870371890633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe0dcd411f4de274aa1b52652f906cc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Proyecto nuevo (2)_0: -699053813111172983
+      Proyecto nuevo (2)_1: 796610666237046007
+      Proyecto nuevo (2)_10: -5623283700684360455
+      Proyecto nuevo (2)_11: -6425958410682714885
+      Proyecto nuevo (2)_12: -3844693663107661011
+      Proyecto nuevo (2)_13: -593463013736004971
+      Proyecto nuevo (2)_14: -2037907094003479534
+      Proyecto nuevo (2)_15: 1235449498510936244
+      Proyecto nuevo (2)_16: 140162059329118745
+      Proyecto nuevo (2)_17: 2781374340642644121
+      Proyecto nuevo (2)_18: 2548751532953440792
+      Proyecto nuevo (2)_19: -7584199955349841884
+      Proyecto nuevo (2)_2: 1984005405729339704
+      Proyecto nuevo (2)_20: -1966188871045230931
+      Proyecto nuevo (2)_21: -4397802050459866711
+      Proyecto nuevo (2)_22: 243360611447397628
+      Proyecto nuevo (2)_23: -8379598002918643346
+      Proyecto nuevo (2)_24: 3620383616306961324
+      Proyecto nuevo (2)_25: -7226928633606023733
+      Proyecto nuevo (2)_26: -3179129432109162499
+      Proyecto nuevo (2)_27: 4636535196650512334
+      Proyecto nuevo (2)_28: 1178112933434792187
+      Proyecto nuevo (2)_29: 155170967366061992
+      Proyecto nuevo (2)_3: 2212791359437133037
+      Proyecto nuevo (2)_30: 183551527877708014
+      Proyecto nuevo (2)_31: 2989701815944940630
+      Proyecto nuevo (2)_32: 2592222158422090839
+      Proyecto nuevo (2)_33: -1556771101061842461
+      Proyecto nuevo (2)_34: -2998626976269044266
+      Proyecto nuevo (2)_35: 7365036841737156285
+      Proyecto nuevo (2)_36: -2588437786132322336
+      Proyecto nuevo (2)_37: -4884067530288492875
+      Proyecto nuevo (2)_38: 4473643277271274766
+      Proyecto nuevo (2)_39: -5423730343655706127
+      Proyecto nuevo (2)_4: -3899486561205773754
+      Proyecto nuevo (2)_40: -8809728320327487561
+      Proyecto nuevo (2)_41: 805514524859003792
+      Proyecto nuevo (2)_42: 334719829650535692
+      Proyecto nuevo (2)_43: -6255266912930740952
+      Proyecto nuevo (2)_44: -2618461120312493744
+      Proyecto nuevo (2)_45: 5127809493333336703
+      Proyecto nuevo (2)_46: -3800639603102140740
+      Proyecto nuevo (2)_47: -3063307984985001991
+      Proyecto nuevo (2)_48: -5533962190078753776
+      Proyecto nuevo (2)_49: -8849306171312211176
+      Proyecto nuevo (2)_5: -390836055629107556
+      Proyecto nuevo (2)_50: 3913891783161586369
+      Proyecto nuevo (2)_51: -2721549290837266138
+      Proyecto nuevo (2)_52: -7561339495225571275
+      Proyecto nuevo (2)_53: -9069720747752648835
+      Proyecto nuevo (2)_54: -6095578181836209854
+      Proyecto nuevo (2)_55: -5418640563483475450
+      Proyecto nuevo (2)_56: 7547738609598757524
+      Proyecto nuevo (2)_57: -667469655380922620
+      Proyecto nuevo (2)_58: 7777531981036067356
+      Proyecto nuevo (2)_59: -9027644898629073176
+      Proyecto nuevo (2)_6: -7067017178106918519
+      Proyecto nuevo (2)_60: -4733576023144785492
+      Proyecto nuevo (2)_61: -1215647850886507343
+      Proyecto nuevo (2)_62: 4180398377905132825
+      Proyecto nuevo (2)_63: -4662532290552991170
+      Proyecto nuevo (2)_64: 609096620822194483
+      Proyecto nuevo (2)_65: 121344717859974223
+      Proyecto nuevo (2)_66: -6670055023242816975
+      Proyecto nuevo (2)_67: -8320289203037563307
+      Proyecto nuevo (2)_68: -656516381363063104
+      Proyecto nuevo (2)_69: -6014628535835457708
+      Proyecto nuevo (2)_7: -7199982573121926465
+      Proyecto nuevo (2)_70: 1057284128558391008
+      Proyecto nuevo (2)_71: 5605459424007880304
+      Proyecto nuevo (2)_72: 2005391903672993245
+      Proyecto nuevo (2)_73: -1089331913651110799
+      Proyecto nuevo (2)_74: -6555427138673270926
+      Proyecto nuevo (2)_75: 7376516360247299538
+      Proyecto nuevo (2)_76: -8421832633052582311
+      Proyecto nuevo (2)_77: 5366270392588237640
+      Proyecto nuevo (2)_78: 7348563009135465767
+      Proyecto nuevo (2)_79: 2426790077253850598
+      Proyecto nuevo (2)_8: -9051700816570954677
+      Proyecto nuevo (2)_80: 9099333647368699884
+      Proyecto nuevo (2)_81: 733905344331556899
+      Proyecto nuevo (2)_82: 7812201056279719312
+      Proyecto nuevo (2)_83: 7705660448255679765
+      Proyecto nuevo (2)_84: -439522799121702616
+      Proyecto nuevo (2)_85: 6769579870371890633
+      Proyecto nuevo (2)_9: -5409179246272360622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

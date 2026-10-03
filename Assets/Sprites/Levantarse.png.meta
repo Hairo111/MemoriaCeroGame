@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 7dc727acd3341c84d91bf6af2d4d9d6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 121831272768988439
+    second: Levantarse_0
+  - first:
+      213: -5456554603948688311
+    second: Levantarse_1
+  - first:
+      213: 4075231834459135159
+    second: Levantarse_2
+  - first:
+      213: -5716176374169472740
+    second: Levantarse_3
+  - first:
+      213: -5431414244868691748
+    second: Levantarse_4
+  - first:
+      213: -7087931248841706276
+    second: Levantarse_5
+  - first:
+      213: -2162951052050236914
+    second: Levantarse_6
+  - first:
+      213: -3353692313044394851
+    second: Levantarse_7
+  - first:
+      213: 3134270522416886128
+    second: Levantarse_8
+  - first:
+      213: 8559378835229730124
+    second: Levantarse_9
+  - first:
+      213: -4041915315558199416
+    second: Levantarse_10
+  - first:
+      213: 549121036833072987
+    second: Levantarse_11
+  - first:
+      213: -1883125949312209951
+    second: Levantarse_12
+  - first:
+      213: -8248571969767434090
+    second: Levantarse_13
+  - first:
+      213: 7439151154269308267
+    second: Levantarse_14
+  - first:
+      213: 8563724356529882288
+    second: Levantarse_15
+  - first:
+      213: -2921231733943499608
+    second: Levantarse_16
+  - first:
+      213: -4691656146897138070
+    second: Levantarse_17
+  - first:
+      213: -6815393395836217236
+    second: Levantarse_18
+  - first:
+      213: 7603337939640370255
+    second: Levantarse_19
+  - first:
+      213: -337321518807845521
+    second: Levantarse_20
+  - first:
+      213: 1166795987993926841
+    second: Levantarse_21
+  - first:
+      213: 3197938672891723112
+    second: Levantarse_22
+  - first:
+      213: -7728419051858350879
+    second: Levantarse_23
+  - first:
+      213: 2283979624844241186
+    second: Levantarse_24
+  - first:
+      213: -3139753623685031915
+    second: Levantarse_25
+  - first:
+      213: 8111824065970868157
+    second: Levantarse_26
+  - first:
+      213: 7989628622300751873
+    second: Levantarse_27
+  - first:
+      213: 6579805835980613912
+    second: Levantarse_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Levantarse_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1286
+        width: 188
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715ede7a5e4d0b100800000000000000
+      internalID: 121831272768988439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1287
+        width: 186
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cbd1e6f7c6644b0800000000000000
+      internalID: -5456554603948688311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1293
+        width: 221
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcdc4e03c12e8830800000000000000
+      internalID: 4075231834459135159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1293
+        width: 205
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f5209fdf0ca0b0800000000000000
+      internalID: -5716176374169472740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_4
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1293
+        width: 193
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ea9a658dbf94b0800000000000000
+      internalID: -5431414244868691748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1144
+        width: 186
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd43668251c92ad90800000000000000
+      internalID: -7087931248841706276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1138
+        width: 167
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0afcfb5a77abf1e0800000000000000
+      internalID: -2162951052050236914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1138
+        width: 169
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd7032c9a4571d0800000000000000
+      internalID: -3353692313044394851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1133
+        width: 148
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071f2ae1f6a2f7b20800000000000000
+      internalID: 3134270522416886128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1133
+        width: 157
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c456ddb73b509c670800000000000000
+      internalID: 8559378835229730124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1133
+        width: 163
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f41fb7f6b38e7c0800000000000000
+      internalID: -4041915315558199416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 990
+        width: 164
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5721237caede9700800000000000000
+      internalID: 549121036833072987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 988
+        width: 159
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebece32deacdd5e0800000000000000
+      internalID: -1883125949312209951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 992
+        width: 187
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69894cd0f7f278d80800000000000000
+      internalID: -8248571969767434090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 990
+        width: 187
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65c8ac7f8c2d3760800000000000000
+      internalID: 7439151154269308267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_15
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 988
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b403510ee578d670800000000000000
+      internalID: 8563724356529882288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_16
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 991
+        width: 164
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a403bf1733b577d0800000000000000
+      internalID: -2921231733943499608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 804
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e0be38793e3eeb0800000000000000
+      internalID: -4691656146897138070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 804
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6893a4e0dbda61a0800000000000000
+      internalID: -6815393395836217236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 804
+        width: 128
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44c387629b748960800000000000000
+      internalID: 7603337939640370255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 804
+        width: 122
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65fc58add7915bf0800000000000000
+      internalID: -337321518807845521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 804
+        width: 110
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc9ab5e4ca413010800000000000000
+      internalID: 1166795987993926841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_22
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 804
+        width: 111
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df133974c516c20800000000000000
+      internalID: 3197938672891723112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 550
+        width: 122
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec2f9ab1d32fb490800000000000000
+      internalID: -7728419051858350879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 550
+        width: 116
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22922152e5352bf10800000000000000
+      internalID: 2283979624844241186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 550
+        width: 117
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181202e6ba5d64d0800000000000000
+      internalID: -3139753623685031915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_26
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 556
+        width: 110
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf88ac720df29070800000000000000
+      internalID: 8111824065970868157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_27
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 550
+        width: 122
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108a78fa6ecd0ee60800000000000000
+      internalID: 7989628622300751873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Levantarse_28
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 551
+        width: 126
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819aaa8eb8a205b50800000000000000
+      internalID: 6579805835980613912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c7a9fd673de677458ce18bc7fa04abd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Levantarse_0: 121831272768988439
+      Levantarse_1: -5456554603948688311
+      Levantarse_10: -4041915315558199416
+      Levantarse_11: 549121036833072987
+      Levantarse_12: -1883125949312209951
+      Levantarse_13: -8248571969767434090
+      Levantarse_14: 7439151154269308267
+      Levantarse_15: 8563724356529882288
+      Levantarse_16: -2921231733943499608
+      Levantarse_17: -4691656146897138070
+      Levantarse_18: -6815393395836217236
+      Levantarse_19: 7603337939640370255
+      Levantarse_2: 4075231834459135159
+      Levantarse_20: -337321518807845521
+      Levantarse_21: 1166795987993926841
+      Levantarse_22: 3197938672891723112
+      Levantarse_23: -7728419051858350879
+      Levantarse_24: 2283979624844241186
+      Levantarse_25: -3139753623685031915
+      Levantarse_26: 8111824065970868157
+      Levantarse_27: 7989628622300751873
+      Levantarse_28: 6579805835980613912
+      Levantarse_3: -5716176374169472740
+      Levantarse_4: -5431414244868691748
+      Levantarse_5: -7087931248841706276
+      Levantarse_6: -2162951052050236914
+      Levantarse_7: -3353692313044394851
+      Levantarse_8: 3134270522416886128
+      Levantarse_9: 8559378835229730124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
