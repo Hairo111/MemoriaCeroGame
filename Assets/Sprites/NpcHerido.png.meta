@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 2f4f544a963e3a547b632d47de580949
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7574938647016108886
+    second: NpcHerido_0
+  - first:
+      213: 8214489600047482686
+    second: NpcHerido_1
+  - first:
+      213: -1666001612776111086
+    second: NpcHerido_2
+  - first:
+      213: -2704229499691530171
+    second: NpcHerido_3
+  - first:
+      213: -5620167811989477135
+    second: NpcHerido_4
+  - first:
+      213: -5286701896393063296
+    second: NpcHerido_5
+  - first:
+      213: -7232563681858494791
+    second: NpcHerido_6
+  - first:
+      213: -3333901950620372806
+    second: NpcHerido_7
+  - first:
+      213: -2206990397797377260
+    second: NpcHerido_8
+  - first:
+      213: -1180171358500658847
+    second: NpcHerido_9
+  - first:
+      213: 6118713149261961496
+    second: NpcHerido_10
+  - first:
+      213: -878144310949491918
+    second: NpcHerido_11
+  - first:
+      213: -9034087982111270038
+    second: NpcHerido_12
+  - first:
+      213: 6505529366715358024
+    second: NpcHerido_13
+  - first:
+      213: -3055255413949194618
+    second: NpcHerido_14
+  - first:
+      213: 9209693931079613243
+    second: NpcHerido_15
+  - first:
+      213: -7258480186423957083
+    second: NpcHerido_16
+  - first:
+      213: -6823867075885026601
+    second: NpcHerido_17
+  - first:
+      213: -813608574226750575
+    second: NpcHerido_18
+  - first:
+      213: -7479098318692218860
+    second: NpcHerido_19
+  - first:
+      213: 7826559904949321881
+    second: NpcHerido_20
+  - first:
+      213: 2647464089428470307
+    second: NpcHerido_21
+  - first:
+      213: 3447360953217836705
+    second: NpcHerido_22
+  - first:
+      213: -6960030983207261618
+    second: NpcHerido_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NpcHerido_0
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 780
+        width: 70
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f5c2d0969f1960800000000000000
+      internalID: 7574938647016108886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 666
+        width: 238
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3788fdd4cabff170800000000000000
+      internalID: 8214489600047482686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_2
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 667
+        width: 238
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214804b2c5c21e8e0800000000000000
+      internalID: -1666001612776111086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_3
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 666
+        width: 237
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54801cff895a87ad0800000000000000
+      internalID: -2704229499691530171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 668
+        width: 225
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f86844e6272102b0800000000000000
+      internalID: -5620167811989477135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 657
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0848b18a2acd1a6b0800000000000000
+      internalID: -5286701896393063296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 498
+        width: 240
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bede6fa6a5c0ab90800000000000000
+      internalID: -7232563681858494791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 616
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab07a45f6d99bb1d0800000000000000
+      internalID: -3333901950620372806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 376
+        width: 6
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1616a7af6603f9fe0800000000000000
+      internalID: -1180171358500658847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 442
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8195540e0390ae450800000000000000
+      internalID: 6118713149261961496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 498
+        width: 229
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b435cd66430d3f0800000000000000
+      internalID: -878144310949491918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_12
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 429
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bd1ac48d870a280800000000000000
+      internalID: -9034087982111270038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_13
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 499
+        width: 230
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd0f2cd78484a50800000000000000
+      internalID: 6505529366715358024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_14
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 443
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e1871736d8995d0800000000000000
+      internalID: -3055255413949194618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_15
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 502
+        width: 235
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b3214d5d76fcf70800000000000000
+      internalID: 9209693931079613243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 276
+        width: 16
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a92dfe3ab2b44b90800000000000000
+      internalID: -7258480186423957083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_17
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 302
+        width: 237
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2b3638c01cc41a0800000000000000
+      internalID: -6823867075885026601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 306
+        width: 231
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a00bff4b75b4f0800000000000000
+      internalID: -813608574226750575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_19
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 306
+        width: 235
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418012284b7e43890800000000000000
+      internalID: -7479098318692218860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_20
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 260
+        width: 192
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990c1d344c68d9c60800000000000000
+      internalID: 7826559904949321881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_21
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 277
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aacfdff8eadb420800000000000000
+      internalID: 2647464089428470307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_22
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 280
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e915a58c77df20800000000000000
+      internalID: 3447360953217836705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_23
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 278
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ae73452b0096f90800000000000000
+      internalID: -6960030983207261618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_24
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 624
+        width: 82
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11fb8ece2e303c419575404022a947f
+      internalID: -1871131064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NpcHerido_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 779
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1127878c6dddc4ab3a552945b1822a
+      internalID: -2206990397797377260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0ca947a592afa0b45ab5bc993c498090
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NpcHerido_0: 7574938647016108886
+      NpcHerido_1: 8214489600047482686
+      NpcHerido_10: 6118713149261961496
+      NpcHerido_11: -878144310949491918
+      NpcHerido_12: -9034087982111270038
+      NpcHerido_13: 6505529366715358024
+      NpcHerido_14: -3055255413949194618
+      NpcHerido_15: 9209693931079613243
+      NpcHerido_16: -7258480186423957083
+      NpcHerido_17: -6823867075885026601
+      NpcHerido_18: -813608574226750575
+      NpcHerido_19: -7479098318692218860
+      NpcHerido_2: -1666001612776111086
+      NpcHerido_20: 7826559904949321881
+      NpcHerido_21: 2647464089428470307
+      NpcHerido_22: 3447360953217836705
+      NpcHerido_23: -6960030983207261618
+      NpcHerido_24: -1871131064
+      NpcHerido_3: -2704229499691530171
+      NpcHerido_4: -5620167811989477135
+      NpcHerido_5: -5286701896393063296
+      NpcHerido_6: -7232563681858494791
+      NpcHerido_7: -3333901950620372806
+      NpcHerido_8: -2206990397797377260
+      NpcHerido_9: -1180171358500658847
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
