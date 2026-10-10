@@ -12,6 +12,9 @@ public class InteraccionNPC : MonoBehaviour
     public TextMeshProUGUI textoDialogo;
     public GameObject panelBotones;
 
+    [Header("Inventario")] // NUEVA SECCIÓN
+    public InventoryManager playerInventory; // REFERENCIA AL NUEVO SCRIPT DE LA MOCHILA
+
     [Header("Guion")]
     [TextArea(2, 5)]
     public string[] lineasDeDialogo;
@@ -80,6 +83,16 @@ public class InteraccionNPC : MonoBehaviour
         
         panelBotones.SetActive(false);
         Debug.Log("Mochila añadida al inventario");
+
+        // --- LÓGICA DE EXPANSIÓN AÑADIDA AQUÍ ---
+        if (playerInventory != null)
+        {
+            playerInventory.ExpandBackpack(5); // Llama a la función del InventoryManager
+        }
+        else
+        {
+            Debug.LogWarning("¡Falta asignar el InventoryManager en el Inspector del NPC!");
+        }
     }
 
     // --- DETECCIÓN DEL JUGADOR ---
